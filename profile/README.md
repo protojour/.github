@@ -19,6 +19,8 @@ As the energy consumption of data centers are climbing due to cloud deployments 
 
 ### Tech Stack
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)&nbsp;
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat&logo=PostgreSQL&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white)&nbsp;
 ![HTMX](https://img.shields.io/badge/HTMX-36C?logo=htmx&logoColor=fff)&nbsp;
@@ -26,11 +28,9 @@ As the energy consumption of data centers are climbing due to cloud deployments 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)&nbsp;
 ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)&nbsp;
 ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)&nbsp;
 ![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)&nbsp;
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)&nbsp;
 
 
