@@ -46,7 +46,7 @@ We believe in a base capability architecture where the platforms provide common 
 
 #### Components
 ##### Situ Platform - Service Platform
-The Situ Platform is a development and software service accelerator. Allowing you to focus on feature logic and user experience, while trusting backend api and performance to the platform capabilities.
+[The Situ Platform](https://protojour.github.io/situ/) is a development and software service accelerator. Allowing you to focus on feature logic and user experience, while trusting backend api and performance to the platform capabilities.
 
 ##### Authly - Digital Identity
 Authly is a security modeling engine where you describe your security domain. It builds a secure Arx with a gateway that manages IAM for your software services.
