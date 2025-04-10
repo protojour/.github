@@ -1,6 +1,6 @@
 # Protojour
 
-We are an independent software studio building software alternatives.
+We are independent software developers building software alternatives.
 
 ## Principles
 
